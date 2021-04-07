@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pieces\ isWhitePiece
+comment0.target=White(java.util.ArrayList,\ java.util.ArrayList)
+comment1.params=spot\ item\ pieces
+comment1.target=void\ addPiece(int,\ Piece,\ java.util.ArrayList)
+comment2.params=spot\ troo\ isWhitePiece
+comment2.target=void\ showisWhitePiece(int,\ boolean,\ java.util.ArrayList)
+comment3.params=pieces\ isWhitePiece
+comment3.target=void\ addWhitePiecesTo(java.util.ArrayList,\ java.util.ArrayList)
+numComments=4
